@@ -27,7 +27,7 @@
 	<string name="contacts_app_is_missing">Aucune application Contacts n\'est installée pour enregistrer les contacts.</string>
 	
 	<!-- SPEED DIAL -->
-	<string name="tap_for_addition">apuyer pour ajouter</string>
+	<string name="tap_for_addition">Appuyer pour ajouter</string>
 	<string name="voice_mail">Messagerie vocale</string>
 	<string name="remove_speed_dial_entry">Voulez-vous supprimer ce numéro ?</string>
 	<string name="pick_contact_number">Choisir un numéro de contact</string>
